@@ -1,0 +1,77 @@
+body{
+	background-image: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fycimg.woofeng.cn%2F20180130%2F20180130232304_34055.jpg&refer=http%3A%2F%2Fycimg.woofeng.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1647094284&t=a98c09a9e3bf4478bd4d2b7170bd4d72);
+    background-size: cover;	
+}
+.intro{
+	color: gold;
+	text-align: center;
+	font-family: fantasy;
+}
+#q{
+	text-align: center;
+}
+#w{
+	text-align: center;
+}
+#e{
+	color: rgb(150, 233, 150);
+}
+h5{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+}
+table,th,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	width:1000px;
+
+}
+#green{
+	background-color: green;
+	color: white;
+}
+.grey{
+	background-color: lightgray;
+}
+#r{
+	color: lightpink;
+	text-align: center;
+}
+#t{
+	text-align: center;
+	color: rgb(144,160,171);
+}
+#y{
+	font-family: cursive;
+	color: lightblue;
+	text-align: center;
+}
+.Qube{
+	text-align: center;
+}
+.small{
+	text-align: center;
+}
+#i{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+.george{
+	color: white;
+	background-color: grey;
+	margin-left: -5px;
+	padding: 20px;
+}
+.george:hover{
+	background-color: darkgreen;
+	color: white;
+}
+.p{
+	float: left;
+	width: 500px;
+	text-align: center;
+}
